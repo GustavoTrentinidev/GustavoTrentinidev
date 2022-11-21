@@ -2,7 +2,7 @@
 
 - 🔭 Estudando no Instituto Federal Catarinense
 - 🌱 Estudando HTML5, CSS3, Javascript e Vue.js
-- 😎🌹 17 Anos
+- 😎🌹 18 Anos
 
 <div>
   <a href="https://github.com/GustavoTrentinidev">
